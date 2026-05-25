@@ -1,8 +1,0 @@
-{
-  "name": "neva-deslocacoes",
-  "version": "1.0.0",
-  "description": "Neva Agency — Mapa de Deslocações",
-  "dependencies": {
-    "pdf-lib": "^1.17.1"
-  }
-}
